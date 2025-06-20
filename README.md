@@ -1,1 +1,2 @@
 # FedStellar
+This project simulates Decentralized Federated Learning (DFL), an innovative approach to machine learning where devices—like smartphones, sensors, or robots—train their own models locally without relying on a central server. Instead of sending data to a cloud, these devices collaborate directly with each other, sharing knowledge only when they’re physically nearby. The goal? To reduce energy consumption and protect data privacy while still achieving high-quality model training.
