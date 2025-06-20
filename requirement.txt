@@ -1,0 +1,14 @@
+torch
+lightning
+torchmetrics
+torchtnt
+numpy
+torchvision
+dash
+plotly
+scikit-learn
+pandas
+pytest
+dash_daq
+dash_cytoscape
+dash_svg
